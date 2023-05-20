@@ -2,7 +2,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const canvas = document.getElementById('gameCanvas');
     const context = canvas.getContext('2d');
   
-    // Variables du jeu
+    // Variables du jeu 
     const paddleWidth = 100;
     const paddleHeight = 10;
     const brickRowCount = 5;
